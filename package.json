@@ -1,0 +1,23 @@
+{
+  "name": "language-detector",
+  "version": "1.0.0",
+  "description": "Project of language detector from \"The Web Developer Bootcamp\" by Colt Steele.",
+  "main": "index.js",
+  "dependencies": {
+    "franc": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamRychert/LanguageDetector.git"
+  },
+  "author": "Adam Rychert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamRychert/LanguageDetector/issues"
+  },
+  "homepage": "https://github.com/AdamRychert/LanguageDetector#readme"
+}
